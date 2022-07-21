@@ -10,4 +10,10 @@ Figure 3 in the manuscript by re-using data from the *IPCC WGI Atlas repository*
 ([https://github.com/IPCC-WG1/Atlas](https://github.com/IPCC-WG1/Atlas)).
 
 The notebook runs on the [execution environment provided by the Atlas repository](https://github.com/IPCC-WG1/Atlas/tree/v2.0-final/binder),
-which can be accessed through the above MyBinder.org badge.
+which can be accessed through the above MyBinder.org badge. Note that it reads
+the input data directly from the Atlas repository at GitHub, which supports a
+limited number of daily requests. This limit could be reached on heavy use of
+this notebook (e.g. by running it many times with multiple parameter choices).
+For such use, we recommend accessing the Atlas repository data locally, by
+cloning from [Github](https://github.com/IPCC-WG1/Atlas) or by downloading
+from [Zenodo](https://zenodo.org/record/5171760).
