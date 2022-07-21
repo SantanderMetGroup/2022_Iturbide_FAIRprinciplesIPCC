@@ -9,5 +9,5 @@ Iturbide et al. to Scientific Data. The Jupyter notebook
 Figure 3 in the manuscript by re-using data from the *IPCC WGI Atlas repository*
 ([https://github.com/IPCC-WG1/Atlas](https://github.com/IPCC-WG1/Atlas)).
 
-The notebook runs on the execution environment provided by the Atlas repository,
+The notebook runs on the [execution environment provided by the Atlas repository](https://github.com/IPCC-WG1/Atlas/tree/v2.0-final/binder),
 which can be accessed through the above MyBinder.org badge.
